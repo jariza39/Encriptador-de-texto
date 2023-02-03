@@ -275,13 +275,13 @@ i{
     .logo{
         margin: 0;
         padding: 0;
-        left: 10px;
+        left: 20px;
         right: 87.2%;
         top: 25%;
         bottom: 25%;
     }
     main{
-        margin-left: 10px;
+        margin-left: 20px;
     }
     .text-area{
         padding:0;
@@ -299,7 +299,7 @@ i{
         position: absolute;
         top: 420px;
         opacity: 0.8;
-        left: 10px;
+        left: 20px;
     }
    
     .btn-encriptar{
@@ -311,7 +311,7 @@ i{
         width: 370px;
         height: 67px;
         left: 0px;
-        left: 10px;
+        left: 20px;
         font-size: 12px;
     }
     .btn-desencriptar{
@@ -320,14 +320,14 @@ i{
         top: 540px;
         width: 370px;
         height: 67px;
-        left: 10px;
+        left: 20px;
         font-size: 12px;
     }
     .mensajes{
         width: 0;
         height: 0;
         left: 0;
-        left: 15px;
+        left: 25px;
         top: 640px;
         width: 310px;
         height: 140px ;
@@ -370,7 +370,7 @@ i{
         
         padding: 0;
         position: absolute;
-        top: 950px;
+        top: 880px;
         width: 290px;
         height: 67px;
         left: 60px;
