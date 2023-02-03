@@ -170,13 +170,13 @@ i{
 
 @media screen and (max-width: 768px){
     .logo{
-        left: 40px;
+        left: 20px;
         top: 73.42px;
         position: absolute;
         margin: 0;
     }
     main{
-        margin-left: 40px;
+        margin-left: 20px;
         
     }
     .text-area{
@@ -194,12 +194,12 @@ i{
         position: absolute;
         width: 688px;
         height: 133px;
-        left: 40px;
+        left: 20px;
         top: 1001px;
     }
     .mensaje{
         margin:0;
-        width: 630px;
+        width: 665px;
         height: 103px;
         background-image: none;
     }
@@ -216,20 +216,20 @@ i{
         margin:0;
         position: absolute;
         top: 875px;
-        width: 332px;
+        width: 344px;
         height: 67px;
     }
     .btn-desencriptar{
         left: 50px;
         position: absolute;
         top: 875px;
-        width: 332px;
+        width: 344px;
         height: 67px;
 
     }
     .copiar{
         margin:0;
-        left: 70px;
+        left: 50px;
         padding: 0;
         position: absolute;
         top: 1280px;
@@ -275,19 +275,19 @@ i{
     .logo{
         margin: 0;
         padding: 0;
-        left: 4.27%;
+        left: 10px;
         right: 87.2%;
         top: 25%;
         bottom: 25%;
     }
     main{
-        margin-left: 16px;
+        margin-left: 10px;
     }
     .text-area{
         padding:0;
         top: 152px;
         width: 380px;
-        height: 300px;
+        height: 250px;
         font-weight: 400;
         font-size: 30px;
     }
@@ -297,9 +297,9 @@ i{
         font-size: 12px;
         color: #495057;
         position: absolute;
-        top: 451px;
+        top: 420px;
         opacity: 0.8;
-        left: 16px;
+        left: 10px;
     }
    
     .btn-encriptar{
@@ -307,27 +307,28 @@ i{
         padding: 0;
         width: 0;
         position: absolute;
-        top: 485px;
-        width: 380px;
+        top: 455px;
+        width: 370px;
         height: 67px;
-        left: 16px;
+        left: 0px;
+        left: 10px;
         font-size: 12px;
     }
     .btn-desencriptar{
         margin:0;
         position: absolute;
-        top: 570px;
-        width: 380px;
+        top: 540px;
+        width: 370px;
         height: 67px;
-        left: 16px;
+        left: 10px;
         font-size: 12px;
     }
     .mensajes{
         width: 0;
         height: 0;
         left: 0;
-        left: 25px;
-        top: 690px;
+        left: 15px;
+        top: 640px;
         width: 310px;
         height: 140px ;
     }

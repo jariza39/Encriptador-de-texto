@@ -71,6 +71,7 @@ btnEncriptar.addEventListener("click", () => {
     conditionReset();
     
   } else {
+    informacion.style.color = "#495057";
     const text = textArea.value;
     const mapa = {a:"ai",e:"enter",i:"imes",o:"ober",u:"ufat"};
     resultado = text.replace(/a|e|i|o|u/gm,(matched)=> {return mapa[matched];}); 
@@ -87,6 +88,7 @@ btnDesencriptar.addEventListener("click", () => {
       informacion.style.color = "red";
       conditionReset();
   } else {
+    informacion.style.color = "#495057";
     const text = textArea.value;
     const mapa = {ai:"a",enter:"e",imes:"i",ober:"o",ufat:"u"}; 
     respuesta = text.replace(/enter|imes|ai|ober|ufat/gm,(matched) => {return mapa[matched];});
